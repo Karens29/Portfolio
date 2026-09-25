@@ -53,12 +53,18 @@ I'm at the start of my QA journey, coming from 7 years of engineering experience
 
 ## Samples 🔬
 
-**1. Urban Grocers — API Testing**
+**1. Urban Routes — Automation Testing**
+- Developed automated tests to validate critical functionalities of a web application, reducing the need for repetitive manual execution
+- Implemented automated scripts to verify expected behaviors and detect regressions using automation tools
+- Technologies: Python, Selenium, Pytest, Automation Testing, Regression Testing
+  https://github.com/Karens29/qa-project-Urban-Routes-es
+
+**2. Urban Grocers — API Testing**
 - Designed and executed tests for REST endpoints, validating requests, responses, and business rules using Postman
 - Ran SQL queries to verify data integrity between the API and the database
 - Technologies: Postman, API Testing, SQL, REST APIs, JSON, Database Validation
 
-**2. Urban Scooter — End-to-End Testing**
+**3. Urban Scooter — End-to-End Testing**
 - Designed and executed end-to-end tests across web and mobile flows, identifying defects and inconsistent behaviors
 - Performed data validations through SQL and documented findings using checklists, test cases and bug reports
 - Technologies: Jira, SQL, Android Studio, DevTools, Test Case Design, Bug Reporting, Mobile Testing, Web Testing, API Testing, Postman
