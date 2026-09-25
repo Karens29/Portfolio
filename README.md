@@ -57,7 +57,8 @@ I'm at the start of my QA journey, coming from 7 years of engineering experience
 - Developed automated tests to validate critical functionalities of a web application, reducing the need for repetitive manual execution
 - Implemented automated scripts to verify expected behaviors and detect regressions using automation tools
 - Technologies: Python, Selenium, Pytest, Automation Testing, Regression Testing
-  https://github.com/Karens29/qa-project-Urban-Routes-es
+  
+  *https://github.com/Karens29/qa-project-Urban-Routes-es*
 
 **2. Urban Grocers — API Testing**
 - Designed and executed tests for REST endpoints, validating requests, responses, and business rules using Postman
