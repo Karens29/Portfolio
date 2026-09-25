@@ -63,4 +63,3 @@ I'm at the start of my QA journey, coming from 7 years of engineering experience
 - Performed data validations through SQL and documented findings using checklists, test cases and bug reports
 - Technologies: Jira, SQL, Android Studio, DevTools, Test Case Design, Bug Reporting, Mobile Testing, Web Testing, API Testing, Postman
 
-*(Repo links to be added once each project's repository is public.)*
